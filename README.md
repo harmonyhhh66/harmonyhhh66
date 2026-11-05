@@ -22,7 +22,6 @@ I enjoy exploring research ideas, experimenting with models, and building small 
 - **AI Agents** — Tool use, planning, and agentic workflows
 - **Multi-Agent Systems & Simulation** — Agent interaction, coordination, and emergent behaviors
 - **LLM Post-Training** — Improving model behavior and capabilities after pre-training
-- **Statistical Learning** — Connecting statistical perspectives with modern AI
 
 ## 🛠️ Projects & Explorations
 
